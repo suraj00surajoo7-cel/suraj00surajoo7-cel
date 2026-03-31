@@ -14,10 +14,8 @@ because knowing how things break helps me build them better.
 - Cybersecurity & Ethical Hacking  
 - Data Analytics
 - Data visualization 
-- Frontend-Backend Development  
-
-🎯 Seeking entry-level opportunities to apply my skills and grow.
-
+- Frontend-Backend Development
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -34,6 +32,7 @@ because knowing how things break helps me build them better.
 
 ---
 - 🔭 I’m currently Open for new Job
+- 🎯 Seeking entry-level opportunities to apply my skills and grow.
 - 🌱 I’m currently learning Programing languages, Cyber_Security & Ethical Hacking
 - ⚡ Fun fact: Enthusiastic to learn things but lazy to focus nd quick learner but beginner
 - 🔰 Beginner...........
