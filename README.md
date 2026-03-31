@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 I enjoy understanding how systems work at a deeper level.  
-I am passionate about the intersection of development and security —  
+I am passionate about the intersection of development and security.
 because knowing how things break helps me build them better.
 
 🔍 Currently exploring:
