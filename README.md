@@ -28,11 +28,6 @@ because knowing how things break helps me build them better.
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SurajAcharaya&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: (www.linkedin.com/in/surajkumar-oo7)
 - Email: (suraj00surajoo7@gmail.com)
